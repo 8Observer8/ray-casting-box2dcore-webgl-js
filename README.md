@@ -1,7 +1,7 @@
 
 Sandboxes:
 - [PlayCode](https://playcode.io/1523196)
-- [Plunker](https://plnkr.co/edit/Zwz0EcTnFOQazZgL?open=lib%2Fscript.js&preview)
+- [Plunker](https://plnkr.co/edit/Zwz0EcTnFOQazZgL?preview)
 
 Install globally:
 
